@@ -1,0 +1,13 @@
+{
+  "registrations": [
+    {
+      "name": "suji",
+      "email": "suji123@gmail.com",
+      "phone": "6832782230",
+      "college": "National Engineering college",
+      "event": "Project Expo",
+      "category": "Technical",
+      "id": 1
+    }
+  ]
+}
